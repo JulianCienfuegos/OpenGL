@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1446212834 source:/home/temp/Desktop/HelloWorld/main.cpp
+	<iostream>
+	"display.h"
+	<GL/glew.h>
+
+1446179520 /home/temp/Desktop/HelloWorld/include/display.h
+	<string>
+	<SDL2/SDL.h>
+
+1446179700 source:/home/temp/Desktop/HelloWorld/src/Display.cpp
+	"display.h"
+	<GL/glew.h>
+	<iostream>
+
